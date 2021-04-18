@@ -102,6 +102,7 @@ class ViewController: UIViewController {
         
 //        searchVC
 //        self.present(nextViewController, animated:true, completion:nil)
+        print("My Print test")
         self.navigationController?.pushViewController(nextViewController, animated: true)
     }
     
