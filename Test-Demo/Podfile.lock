@@ -1,0 +1,20 @@
+PODS:
+  - FloatingPanel (2.3.0)
+  - IHKeyboardAvoiding (4.7)
+
+DEPENDENCIES:
+  - FloatingPanel
+  - IHKeyboardAvoiding
+
+SPEC REPOS:
+  trunk:
+    - FloatingPanel
+    - IHKeyboardAvoiding
+
+SPEC CHECKSUMS:
+  FloatingPanel: 373478513a197cf140abd219ca9a9c049967332b
+  IHKeyboardAvoiding: 4cae0880c3975feffa278495df894c5166e71ad0
+
+PODFILE CHECKSUM: f4498e38bb50ed92d7696ba6ca3bc826efaa0a55
+
+COCOAPODS: 1.8.4
